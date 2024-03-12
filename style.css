@@ -20,3 +20,8 @@
 .paragrafo_introdução{
     text-align: justify;
 }
+.lista_paginas_secundarias{
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+}
