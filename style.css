@@ -5,10 +5,13 @@
 .cabeçalho{
     background-color: black;
     color: white;
-    justify-content: center;
 }
 .cabeçalho_titulo{
-    font-size: 20px;
+    font-size: 60px;
+    text-align: center;
+}
+.cabeçalho_subtitulo{
+    text-align: center;
 }
 .seção_introdução{
     background-color: black;
