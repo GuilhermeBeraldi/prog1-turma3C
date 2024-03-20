@@ -23,6 +23,9 @@
     margin: center;
     font-size: 30px;
 }
+.foto_turma{
+    width: 50%;
+}
 .lista_paginas_secundarias{
     background-color: black;
     color: white;
