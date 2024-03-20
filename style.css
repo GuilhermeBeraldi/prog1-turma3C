@@ -19,6 +19,8 @@
 }
 .paragrafo_introdução{
     text-align: justify;
+    text-align: center;
+    margin: center;
     font-size: 30px;
 }
 .lista_paginas_secundarias{
