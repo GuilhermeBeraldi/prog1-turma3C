@@ -15,7 +15,8 @@
 }
 .paragrafo_introdução{
     text-align: justify;
-    margin: center;
+    margin: 20px;
+    padding: 20px;
     font-size: 30px;
 }
 .foto_turma{
